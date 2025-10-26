@@ -1,10 +1,10 @@
 {
   "name": "my-backend",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "src/server.js",
    "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "node src/server.js",
     "dev": "nodemon server.js"
   },
  
